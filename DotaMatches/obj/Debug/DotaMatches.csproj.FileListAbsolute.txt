@@ -1,0 +1,11 @@
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\bin\Debug\DotaMatches.exe.config
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\bin\Debug\DotaMatches.exe
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\bin\Debug\DotaMatches.pdb
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\bin\Debug\MetroFramework.dll
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\obj\Debug\DotaMatches.csprojResolveAssemblyReference.cache
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\obj\Debug\DotaMatches.Main.resources
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\obj\Debug\DotaMatches.Properties.Resources.resources
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\obj\Debug\DotaMatches.csproj.GenerateResource.Cache
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\obj\Debug\DotaMatches.exe
+c:\users\fredrik\documents\visual studio 2012\Projects\DotaMatches\DotaMatches\obj\Debug\DotaMatches.pdb
+C:\Users\Fredrik\Documents\Visual Studio 2012\Projects\DotaMatches\DotaMatches\obj\Debug\DotaMatches.Controls.ucUpComingMatch.resources
