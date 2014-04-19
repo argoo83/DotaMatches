@@ -15,7 +15,10 @@ namespace DotaMatches.Data
         public List<string> eventDone { get; set; }
 
 
-
+        public IEnumerable<LiveMatch> GetLiveMatches()
+        {
+            return null;
+        }
         public IEnumerable<UpComingMatch> GetUpComingMatches()
         {
             foreach (string s in eventSoon)
