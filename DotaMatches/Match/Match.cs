@@ -23,6 +23,14 @@ namespace DotaMatches.Match
             set { team2 = value; }
         }
 
+        private string dotaEvent;
+
+        public string Event
+        {
+            get { return dotaEvent; }
+            set { dotaEvent = value; }
+        }
+
         public Match()
         {
 
